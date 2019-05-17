@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+	<head>
+		<title>STAR WARS FANPAGE</title>
+	</head>
+	<body style="background-color:black">
+		<span align="center" style="color:white" width="10">STAR WARS</span>
+		<h3 align="center" style="color:white">Revenge of the fans</h3>
+			<table align="center" border="0" cellpadding="14" cellspacing="0">
+				<tr style="color:yellow">
+					<th><a href="Pagina 1.html">Film</a></th>
+					<th><a href="Pagina 2.html">Serie TV</a></th>
+					<th><a href="Pagina 3.html">Memes</a></th>
+					<th><a href="Pagina 4.html">Eventi</a></th>
+					<th><a href="Pagina 5.html">VR experience</a></th>
+					<th><a href="Pagina 6.html">About Us</a></th>
+				</tr>
+			</table>
+		<img src="hello.jpg" style="widht:1; height:1; vertical-align-top">
+		<p style="color:white">jyykgiuhiou</p>
+	</body>
+</html>
